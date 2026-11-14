@@ -4,7 +4,7 @@ When a RAG answer links to a second in a YouTube video, how far from the right m
 
 This repository measures it for 14 public videos (1,322 minutes of English talks and lectures) and many ways of cutting a transcript into timestamped passages: fixed character splits, cues packed to a character budget, fixed time windows, a line-for-line copy of LangChain's `YoutubeLoader` (`TranscriptFormat.CHUNKS`, `langchain_community` 0.4.2), transcript-tool paragraphs and chunks, and single caption cues. Each splitting rule is run with the second taken from the real cue start and, for character splits, with the second estimated from the character offset, so passage length and timestamp source can be told apart.
 
-Write-up: ARTICLE_URL
+Write-up: https://kizukidata.hashnode.dev/timestamp-citations-from-youtube-transcripts-a-one-line-formula-and-where-it-stops-being-the-problem
 
 ## Main results
 
