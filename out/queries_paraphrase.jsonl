@@ -1,0 +1,322 @@
+{"pid": "7xTGNNLPyMI@600j", "query": "Why do production language models use fewer symbols than 256 possible byte values?"}
+{"pid": "7xTGNNLPyMI@780j", "query": "Does capitalization change how many tokens a word gets?"}
+{"pid": "7xTGNNLPyMI@900j", "query": "How does training teach a network which token should come next?"}
+{"pid": "7xTGNNLPyMI@960j", "query": "What is the model trying to predict from a sequence of token IDs?"}
+{"pid": "7xTGNNLPyMI@1080j", "query": "Why should the correct next token get a higher probability score?"}
+{"pid": "7xTGNNLPyMI@1140j", "query": "How does one training update shift the odds for every possible token?"}
+{"pid": "7xTGNNLPyMI@1380j", "query": "What kind of architecture do large language models use in practice?"}
+{"pid": "7xTGNNLPyMI@1440j", "query": "Which simple math operations make up each layer of a transformer?"}
+{"pid": "7xTGNNLPyMI@1500j", "query": "What does changing a model's parameters actually alter in its predictions?"}
+{"pid": "7xTGNNLPyMI@1920j", "query": "Why can a model only look at a limited number of tokens at once?"}
+{"pid": "7xTGNNLPyMI@2340j", "query": "Why is training a large model too costly for a personal computer?"}
+{"pid": "7xTGNNLPyMI@3300j", "query": "What causes a language model to make up facts confidently?"}
+{"pid": "7xTGNNLPyMI@3720j", "query": "How are assistants trained using collections of example conversations?"}
+{"pid": "7xTGNNLPyMI@5040j", "query": "What happens when you ask a chatbot about a person it never learned?"}
+{"pid": "7xTGNNLPyMI@5700j", "query": "Does a model treat its input window like short-term memory?"}
+{"pid": "7xTGNNLPyMI@6180j", "query": "Why does a chatbot default to sounding helpful and polite?"}
+{"pid": "7xTGNNLPyMI@6540j", "query": "How much computation goes into generating just one token?"}
+{"pid": "7xTGNNLPyMI@6600j", "query": "Why can't a model do unlimited reasoning in a single forward pass?"}
+{"pid": "7xTGNNLPyMI@6780j", "query": "Do I need to worry about how much the model computes per word?"}
+{"pid": "7xTGNNLPyMI@7860j", "query": "What three types of content appear in school textbooks?"}
+{"pid": "7xTGNNLPyMI@8340j", "query": "Why is it hard for people to write ideal reasoning steps for training?"}
+{"pid": "7xTGNNLPyMI@8580j", "query": "Can a math problem be solved correctly through several different approaches?"}
+{"pid": "7xTGNNLPyMI@8760j", "query": "Does pretraining amount to reading every textbook passage at once?"}
+{"pid": "7xTGNNLPyMI@9060j", "query": "How does reinforcement learning uncover better answer formats on its own?"}
+{"pid": "7xTGNNLPyMI@10080j", "query": "How can you automatically grade a model's math answer?"}
+{"pid": "EWvNQjAaOHw@360j", "query": "Is a chat with an AI really just one long line of tokens?"}
+{"pid": "EWvNQjAaOHw@420j", "query": "Who is in control while a chatbot writes its reply?"}
+{"pid": "EWvNQjAaOHw@480j", "query": "What are the two main phases used to build a chatbot?"}
+{"pid": "EWvNQjAaOHw@960j", "query": "Why does a long conversation cost more than a short one?"}
+{"pid": "EWvNQjAaOHw@1080j", "query": "How can I tell which AI model I'm currently talking to?"}
+{"pid": "EWvNQjAaOHw@1140j", "query": "What limits come with the paid tier of the best model?"}
+{"pid": "EWvNQjAaOHw@1740j", "query": "Is a reasoning model worth using for simple travel recommendations?"}
+{"pid": "EWvNQjAaOHw@2280j", "query": "Should I tell the chatbot to search or let it decide?"}
+{"pid": "EWvNQjAaOHw@2400j", "query": "Which search tool is best for finding very recent news?"}
+{"pid": "EWvNQjAaOHw@3060j", "query": "What is an extended thinking mode and when should it be used?"}
+{"pid": "EWvNQjAaOHw@3240j", "query": "How can an AI help me understand a research paper while I read?"}
+{"pid": "EWvNQjAaOHw@4260j", "query": "What are Claude artifacts and what can they build?"}
+{"pid": "EWvNQjAaOHw@4380j", "query": "Can an AI turn a book's chapters into a visual diagram?"}
+{"pid": "EWvNQjAaOHw@4500j", "query": "Which coding app can edit files stored directly on my laptop?"}
+{"pid": "EWvNQjAaOHw@4560j", "query": "How long does it take an AI to build a small game?"}
+{"pid": "EWvNQjAaOHw@4920j", "query": "Why does an AI know a URL that appears in many code repos?"}
+{"pid": "EWvNQjAaOHw@5340j", "query": "What makes the sky look blue during the day?"}
+{"pid": "EWvNQjAaOHw@6720j", "query": "Are AI video generators worth learning for everyday work?"}
+{"pid": "EWvNQjAaOHw@6960j", "query": "How does ChatGPT remember details from earlier conversations with me?"}
+{"pid": "EWvNQjAaOHw@7320j", "query": "Can I ask follow-up questions about a translation I don't understand?"}
+{"pid": "EWvNQjAaOHw@7440j", "query": "How can I build a translator tailored to my own needs?"}
+{"pid": "EWvNQjAaOHw@7500j", "query": "How do I translate text inside a screenshot into English?"}
+{"pid": "EWvNQjAaOHw@7620j", "query": "What should I compare when choosing between different AI chat apps?"}
+{"pid": "EWvNQjAaOHw@7680j", "query": "Where do I find the option to switch on web search?"}
+{"pid": "EWvNQjAaOHw@7740j", "query": "Which kinds of media can modern chat models read and produce?"}
+{"pid": "LPZh9BOjkQs@60j", "query": "Why does the same question get a different reply every time?"}
+{"pid": "LPZh9BOjkQs@120j", "query": "What do the weights inside a language model actually control?"}
+{"pid": "LPZh9BOjkQs@180j", "query": "How many years would a person need to finish training a huge model?"}
+{"pid": "LPZh9BOjkQs@240j", "query": "Why are graphics cards used for training neural networks?"}
+{"pid": "LPZh9BOjkQs@300j", "query": "What does the feed-forward part add to a transformer block?"}
+{"pid": "LPZh9BOjkQs@360j", "query": "Why is it so hard to explain a model's exact output?"}
+{"pid": "VMj-3S1tku0@480j", "query": "How do I write a simple scalar function in Python?"}
+{"pid": "VMj-3S1tku0@660j", "query": "Why use a tiny step size when estimating a derivative?"}
+{"pid": "VMj-3S1tku0@1500j", "query": "How can I draw the graph of a math expression?"}
+{"pid": "VMj-3S1tku0@1740j", "query": "What happens during a forward pass through an expression tree?"}
+{"pid": "VMj-3S1tku0@2160j", "query": "How do you set gradients by hand in a tiny autograd example?"}
+{"pid": "VMj-3S1tku0@2700j", "query": "Why does the gradient get copied to both branches of a node?"}
+{"pid": "VMj-3S1tku0@2820j", "query": "How do you combine upstream and local gradients in the chain rule?"}
+{"pid": "VMj-3S1tku0@3180j", "query": "What role do weights play in a simple model of a neuron?"}
+{"pid": "VMj-3S1tku0@3600j", "query": "How do you add tanh as a supported operation in a tiny engine?"}
+{"pid": "VMj-3S1tku0@4260j", "query": "What should the backward function for multiplication compute?"}
+{"pid": "VMj-3S1tku0@4620j", "query": "Can I run backpropagation by hand without an automatic loop?"}
+{"pid": "VMj-3S1tku0@4680j", "query": "What is a topological order of a directed acyclic graph?"}
+{"pid": "VMj-3S1tku0@5040j", "query": "Why does reusing the same variable break a naive backward pass?"}
+{"pid": "VMj-3S1tku0@5280j", "query": "How do you handle a plain number mixed with a custom object?"}
+{"pid": "VMj-3S1tku0@5340j", "query": "Why does multiplying a number from the left fail in Python?"}
+{"pid": "VMj-3S1tku0@5580j", "query": "Where should I put the power method in my class?"}
+{"pid": "VMj-3S1tku0@5700j", "query": "Why does the power rule need the raw float instead of the wrapper?"}
+{"pid": "VMj-3S1tku0@5760j", "query": "How can subtraction be built from addition and negation?"}
+{"pid": "VMj-3S1tku0@6060j", "query": "Why cast tensors to double precision when comparing against Python floats?"}
+{"pid": "VMj-3S1tku0@6660j", "query": "How do I check what a small classifier predicts for each example?"}
+{"pid": "VMj-3S1tku0@6960j", "query": "Can I visualize the whole loss expression as a graph?"}
+{"pid": "VMj-3S1tku0@7680j", "query": "What values get stored as a network's learnable parameters?"}
+{"pid": "VMj-3S1tku0@7740j", "query": "What are the three steps of one gradient descent iteration?"}
+{"pid": "VMj-3S1tku0@7800j", "query": "What is a common subtle bug people hit in backpropagation code?"}
+{"pid": "VMj-3S1tku0@8400j", "query": "What does a standard training loop look like in PyTorch?"}
+{"pid": "aircAruvnKk@60j", "query": "Why is recognizing handwritten digits hard for a normal program?"}
+{"pid": "aircAruvnKk@120j", "query": "Are artificial neural networks really modeled on the brain?"}
+{"pid": "aircAruvnKk@180j", "query": "Why does a digit image need 784 input values?"}
+{"pid": "aircAruvnKk@240j", "query": "How do signals move from one stage of the net to the following?"}
+{"pid": "aircAruvnKk@300j", "query": "Do people read handwritten numbers by spotting loops and lines?"}
+{"pid": "aircAruvnKk@360j", "query": "How would a network learn which shape combinations mean which digit?"}
+{"pid": "aircAruvnKk@420j", "query": "Is it realistic to hope that layers detect edges then digits?"}
+{"pid": "aircAruvnKk@480j", "query": "Can a single neuron in layer two detect a local edge?"}
+{"pid": "aircAruvnKk@540j", "query": "Why does every connection between neurons get its own weight?"}
+{"pid": "aircAruvnKk@600j", "query": "How does a sigmoid turn any number into a value from zero to one?"}
+{"pid": "aircAruvnKk@660j", "query": "What is a bias and why shift the weighted sum before squishing?"}
+{"pid": "aircAruvnKk@720j", "query": "Why is it useful to understand weights instead of treating a net as a black box?"}
+{"pid": "aircAruvnKk@780j", "query": "Does knowing what each weight means help when a model misbehaves?"}
+{"pid": "aircAruvnKk@840j", "query": "How is one layer written as a matrix times a vector plus bias?"}
+{"pid": "aircAruvnKk@900j", "query": "Is a whole neural network really just one giant function?"}
+{"pid": "aircAruvnKk@960j", "query": "When is the next installment of the probability videos coming?"}
+{"pid": "aircAruvnKk@1020j", "query": "Why did early neural networks rely on sigmoid activations?"}
+{"pid": "bZQun8Y4L2A@60j", "query": "Which training stage consumes almost all of the compute?"}
+{"pid": "bZQun8Y4L2A@120j", "query": "Which web crawl datasets are used to pretrain language models?"}
+{"pid": "bZQun8Y4L2A@300j", "query": "How does a single grid position attend to earlier words?"}
+{"pid": "bZQun8Y4L2A@360j", "query": "What changes in the output when you adjust model weights?"}
+{"pid": "bZQun8Y4L2A@600j", "query": "Does the API serve a tuned assistant rather than the original pretrained model?"}
+{"pid": "bZQun8Y4L2A@720j", "query": "What kind of prompts do human contractors answer for fine-tuning?"}
+{"pid": "bZQun8Y4L2A@780j", "query": "How is a reward model dataset built from pairs of answers?"}
+{"pid": "bZQun8Y4L2A@900j", "query": "How does a reward model score each generated answer?"}
+{"pid": "bZQun8Y4L2A@1080j", "query": "Why is judging a poem easier than writing one yourself?"}
+{"pid": "bZQun8Y4L2A@1140j", "query": "How can a base model invent new names from a few examples?"}
+{"pid": "bZQun8Y4L2A@1260j", "query": "Why should a model use a calculator for hard division?"}
+{"pid": "bZQun8Y4L2A@1320j", "query": "Do people silently revise sentences while they write them?"}
+{"pid": "bZQun8Y4L2A@1380j", "query": "How do billions of weights store so many facts?"}
+{"pid": "bZQun8Y4L2A@1440j", "query": "Why does a model need many tokens to reason through a problem?"}
+{"pid": "bZQun8Y4L2A@1620j", "query": "How does keeping several candidate answers improve reasoning in a model?"}
+{"pid": "bZQun8Y4L2A@1680j", "query": "What is prompt engineering trying to bring back to language models?"}
+{"pid": "bZQun8Y4L2A@1800j", "query": "Why do models imitate both good and bad answers from training data?"}
+{"pid": "bZQun8Y4L2A@1860j", "query": "Do I have to explicitly request a high-quality answer from a model?"}
+{"pid": "bZQun8Y4L2A@1920j", "query": "Why can't a model tell when it lacks knowledge?"}
+{"pid": "bZQun8Y4L2A@2100j", "query": "What is LoRA and why does it make fine-tuning cheaper?"}
+{"pid": "bZQun8Y4L2A@2160j", "query": "Why is fine-tuning harder to do than basic prompting?"}
+{"pid": "bZQun8Y4L2A@2220j", "query": "Should I write long detailed prompts to get the best results?"}
+{"pid": "bZQun8Y4L2A@2280j", "query": "Should I try fine-tuning only after exhausting prompt tweaks?"}
+{"pid": "bZQun8Y4L2A@2340j", "query": "What are the main weaknesses of current language models?"}
+{"pid": "bZQun8Y4L2A@2460j", "query": "Can an AI write a motivational closing line for an ad?"}
+{"pid": "eMlx5fFNoYc@60j", "query": "Why is the attention mechanism so hard to understand at first?"}
+{"pid": "eMlx5fFNoYc@120j", "query": "How do nearby word vectors update a token's meaning?"}
+{"pid": "eMlx5fFNoYc@180j", "query": "Can attention copy information from one word to another?"}
+{"pid": "eMlx5fFNoYc@240j", "query": "How does the last vector come to represent the whole passage?"}
+{"pid": "eMlx5fFNoYc@300j", "query": "Why do we use toy examples to explain what attention heads do?"}
+{"pid": "eMlx5fFNoYc@360j", "query": "What is a query vector and how is it computed?"}
+{"pid": "eMlx5fFNoYc@420j", "query": "What do the keys and queries mean in an attention head?"}
+{"pid": "eMlx5fFNoYc@480j", "query": "Why do keys and queries get projected into a smaller space?"}
+{"pid": "eMlx5fFNoYc@540j", "query": "How are attention scores turned into a weighted average of values?"}
+{"pid": "eMlx5fFNoYc@600j", "query": "Why scale dot products down when the key vectors get long?"}
+{"pid": "eMlx5fFNoYc@660j", "query": "Why does one training sequence provide many prediction examples?"}
+{"pid": "eMlx5fFNoYc@720j", "query": "Why must later words be hidden from earlier words during training?"}
+{"pid": "eMlx5fFNoYc@780j", "query": "How does an adjective change the vector of the noun it describes?"}
+{"pid": "eMlx5fFNoYc@840j", "query": "How are value vectors combined using the attention weights?"}
+{"pid": "eMlx5fFNoYc@900j", "query": "Why add the attention result to the original embedding instead of replacing it?"}
+{"pid": "eMlx5fFNoYc@960j", "query": "How many parameters do the attention matrices in GPT-3 add up to?"}
+{"pid": "eMlx5fFNoYc@1020j", "query": "Why factor the projection for values when running several heads at once?"}
+{"pid": "eMlx5fFNoYc@1080j", "query": "How many parameters does a single attention head contain?"}
+{"pid": "eMlx5fFNoYc@1140j", "query": "How does cross-attention link words across two different languages?"}
+{"pid": "eMlx5fFNoYc@1200j", "query": "Why is it hard to say what each attention weight means?"}
+{"pid": "eMlx5fFNoYc@1260j", "query": "Is it normal to need time before attention makes sense?"}
+{"pid": "eMlx5fFNoYc@1320j", "query": "How many parameters does a full multi-head attention block have?"}
+{"pid": "eMlx5fFNoYc@1380j", "query": "Do deeper layers capture abstract ideas like tone and sentiment?"}
+{"pid": "eMlx5fFNoYc@1440j", "query": "Where do most of a transformer's parameters actually live?"}
+{"pid": "jGwO_UgTS7I@60j", "query": "Why does Andrew Ng think machine learning will transform every industry?"}
+{"pid": "jGwO_UgTS7I@120j", "query": "Is the volume of machine learning activity rising fast year after year?"}
+{"pid": "jGwO_UgTS7I@540j", "query": "How often is the CS229 course content revised?"}
+{"pid": "jGwO_UgTS7I@600j", "query": "What computer science background do I need before taking CS229?"}
+{"pid": "jGwO_UgTS7I@660j", "query": "Do I need to know eigenvectors before starting a machine learning course?"}
+{"pid": "jGwO_UgTS7I@1020j", "query": "What kinds of real-world problems can machine learning be applied to?"}
+{"pid": "jGwO_UgTS7I@1140j", "query": "Are four-person project teams graded more strictly than smaller ones?"}
+{"pid": "jGwO_UgTS7I@1200j", "query": "Should new students raise their hands to be recognized?"}
+{"pid": "jGwO_UgTS7I@1260j", "query": "Are the Friday discussion sections recorded for online students?"}
+{"pid": "jGwO_UgTS7I@1380j", "query": "Why does answering other students' questions on Piazza help me learn?"}
+{"pid": "jGwO_UgTS7I@1440j", "query": "How will we get set up on Gradescope for submitting work?"}
+{"pid": "jGwO_UgTS7I@1620j", "query": "Are office hours recorded or only live for students?"}
+{"pid": "jGwO_UgTS7I@1800j", "query": "How does the flipped version of the machine learning course work?"}
+{"pid": "jGwO_UgTS7I@1980j", "query": "Why is Stanford central to the AI and ML community?"}
+{"pid": "jGwO_UgTS7I@2100j", "query": "What social problems could machine learning help solve?"}
+{"pid": "jGwO_UgTS7I@2220j", "query": "When did a computer program first beat a human at checkers?"}
+{"pid": "jGwO_UgTS7I@2400j", "query": "Will the class cover the main types of ML tools?"}
+{"pid": "jGwO_UgTS7I@2700j", "query": "How can I plot two classes of data on a single line?"}
+{"pid": "jGwO_UgTS7I@2940j", "query": "What do you do when data has too many features to visualize?"}
+{"pid": "jGwO_UgTS7I@3360j", "query": "How does a self-driving system switch between different neural networks?"}
+{"pid": "jGwO_UgTS7I@3780j", "query": "How many students had already heard about this project?"}
+{"pid": "jGwO_UgTS7I@3840j", "query": "How does a model learn from data without any labels?"}
+{"pid": "jGwO_UgTS7I@4080j", "query": "What can you discover from data that has no labels?"}
+{"pid": "jGwO_UgTS7I@4320j", "query": "Why is flying a helicopter hard to program by hand?"}
+{"pid": "jGwO_UgTS7I@4380j", "query": "How does a reward signal shape behavior in reinforcement learning?"}
+{"pid": "kCc8FmEb1nY@420j", "query": "Which earlier video series should I watch before this transformer tutorial?"}
+{"pid": "kCc8FmEb1nY@480j", "query": "How do you split a training text into single letters?"}
+{"pid": "kCc8FmEb1nY@540j", "query": "Why build a model that predicts one letter at a time?"}
+{"pid": "kCc8FmEb1nY@840j", "query": "How do I know if my model is just memorizing the training text?"}
+{"pid": "kCc8FmEb1nY@900j", "query": "Why does a single chunk of text contain several training examples?"}
+{"pid": "kCc8FmEb1nY@1260j", "query": "How many training examples does a small batch of sequences hold?"}
+{"pid": "kCc8FmEb1nY@1500j", "query": "Why does my loss function fail with a shape error?"}
+{"pid": "kCc8FmEb1nY@1620j", "query": "Why flatten the batch of logits before computing cross entropy?"}
+{"pid": "kCc8FmEb1nY@2640j", "query": "How does a bag-of-words step average past token vectors?"}
+{"pid": "kCc8FmEb1nY@3060j", "query": "Why does multiplying by a triangular matrix give running averages?"}
+{"pid": "kCc8FmEb1nY@3120j", "query": "How does PyTorch broadcast a matrix multiply across a batch?"}
+{"pid": "kCc8FmEb1nY@3420j", "query": "Why do masked positions get minus infinity before the softmax?"}
+{"pid": "kCc8FmEb1nY@3540j", "query": "Why must the embedding size match the channel count here?"}
+{"pid": "kCc8FmEb1nY@3720j", "query": "What does masking and normalizing do to the attention matrix?"}
+{"pid": "kCc8FmEb1nY@4380j", "query": "Do examples in the same batch influence each other during training?"}
+{"pid": "kCc8FmEb1nY@4980j", "query": "Why concatenate several small head outputs back to the embedding size?"}
+{"pid": "kCc8FmEb1nY@5100j", "query": "What is the order of self-attention and the feed-forward layer?"}
+{"pid": "kCc8FmEb1nY@5280j", "query": "What does a residual connection add to a layer's output?"}
+{"pid": "kCc8FmEb1nY@5340j", "query": "Why does addition send equal gradients to both branches?"}
+{"pid": "kCc8FmEb1nY@5760j", "query": "Over which numbers does layer normalization compute its statistics?"}
+{"pid": "kCc8FmEb1nY@6060j", "query": "Why does a small character model produce nonsense words?"}
+{"pid": "kCc8FmEb1nY@6240j", "query": "How do you make a decoder generate a translation of an input sentence?"}
+{"pid": "kCc8FmEb1nY@6300j", "query": "Where do key and value vectors come from when two sequences interact?"}
+{"pid": "kCc8FmEb1nY@6360j", "query": "What files make up the nanoGPT implementation?"}
+{"pid": "kCc8FmEb1nY@6480j", "query": "How much work goes into building a chatbot model from the ground up?"}
+{"pid": "l8pRSuU81PU@60j", "query": "How many layers and channels does the small GPT-2 model have?"}
+{"pid": "l8pRSuU81PU@420j", "query": "What is the position embedding and why is it learned?"}
+{"pid": "l8pRSuU81PU@840j", "query": "Why place an extra normalization step just ahead of the output layer?"}
+{"pid": "l8pRSuU81PU@1140j", "query": "Why is attention described as a communication step between tokens?"}
+{"pid": "l8pRSuU81PU@1560j", "query": "How does the causal mask stop a token from seeing the future?"}
+{"pid": "l8pRSuU81PU@1620j", "query": "Is it possible to write GPT-2 in only about a hundred lines?"}
+{"pid": "l8pRSuU81PU@1800j", "query": "Did the training script run without any errors?"}
+{"pid": "l8pRSuU81PU@1920j", "query": "How do you create position indices with torch arange?"}
+{"pid": "l8pRSuU81PU@2340j", "query": "Why does top-k sampling keep generated text from going off track?"}
+{"pid": "l8pRSuU81PU@3240j", "query": "Why flatten the target tensor before passing it to cross entropy?"}
+{"pid": "l8pRSuU81PU@3900j", "query": "How many batches does one full epoch need?"}
+{"pid": "l8pRSuU81PU@5400j", "query": "Where can I read about tensor cores and TF32 in detail?"}
+{"pid": "l8pRSuU81PU@5700j", "query": "How long does one training iteration take on this GPU?"}
+{"pid": "l8pRSuU81PU@5880j", "query": "Why did the speedup fall short of the promised eight times?"}
+{"pid": "l8pRSuU81PU@7380j", "query": "How can softmax be computed online without storing all inputs?"}
+{"pid": "l8pRSuU81PU@7560j", "query": "Does Flash Attention change the result or only the speed?"}
+{"pid": "l8pRSuU81PU@8340j", "query": "Why use a cosine schedule instead of a constant learning rate?"}
+{"pid": "l8pRSuU81PU@8820j", "query": "What does a model learn in the first few training steps?"}
+{"pid": "l8pRSuU81PU@9360j", "query": "How does gradient accumulation imitate a much larger batch?"}
+{"pid": "l8pRSuU81PU@9420j", "query": "Why skip the optimizer step while accumulating gradients?"}
+{"pid": "l8pRSuU81PU@9600j", "query": "How do I set up a tiny network with sixteen inputs?"}
+{"pid": "l8pRSuU81PU@9900j", "query": "Why accumulate the loss over micro steps instead of printing each one?"}
+{"pid": "l8pRSuU81PU@13680j", "query": "How long does training for several epochs take overnight?"}
+{"pid": "l8pRSuU81PU@13740j", "query": "Why does the loss curve show periodic spikes across epochs?"}
+{"pid": "l8pRSuU81PU@14040j", "query": "What other benchmarks can be used to evaluate a language model?"}
+{"pid": "rmVRLeJRkl4@180j", "query": "Why is human language so hard for computers to process?"}
+{"pid": "rmVRLeJRkl4@240j", "query": "How much meaning hides in tone, timing and word choice?"}
+{"pid": "rmVRLeJRkl4@360j", "query": "Why does language matter more than neurons when studying intelligence?"}
+{"pid": "rmVRLeJRkl4@660j", "query": "Can a language model imitate a famous author's writing style?"}
+{"pid": "rmVRLeJRkl4@840j", "query": "Can GPT-3 handle SQL as fluently as ordinary language?"}
+{"pid": "rmVRLeJRkl4@1140j", "query": "Why did synonym-based word representations fail in practice?"}
+{"pid": "rmVRLeJRkl4@1260j", "query": "What did the linguist Firth mean by knowing a word by its company?"}
+{"pid": "rmVRLeJRkl4@1620j", "query": "Why do verbs like became and remained cluster near the verb be?"}
+{"pid": "rmVRLeJRkl4@2040j", "query": "How do word vectors produce a score for nearby context words?"}
+{"pid": "rmVRLeJRkl4@2340j", "query": "Why do we need calculus to train word vectors?"}
+{"pid": "rmVRLeJRkl4@2400j", "query": "What does the negative log likelihood objective look like for word2vec?"}
+{"pid": "rmVRLeJRkl4@2520j", "query": "Which values get updated when training word vectors?"}
+{"pid": "rmVRLeJRkl4@2640j", "query": "Is deep learning really just applied math rather than magic?"}
+{"pid": "rmVRLeJRkl4@2700j", "query": "How does the derivative split into a numerator and denominator term?"}
+{"pid": "rmVRLeJRkl4@2820j", "query": "How does the dot product expand into individual component terms?"}
+{"pid": "rmVRLeJRkl4@3300j", "query": "Why does the gradient become an expectation over context vectors?"}
+{"pid": "rmVRLeJRkl4@3360j", "query": "Why are predicted probabilities for a context word often tiny?"}
+{"pid": "rmVRLeJRkl4@3600j", "query": "Can word vectors do arithmetic like king minus man plus woman?"}
+{"pid": "rmVRLeJRkl4@3720j", "query": "Why do gender analogies work so well in word vector space?"}
+{"pid": "rmVRLeJRkl4@3780j", "query": "Why can't an old word vector model know recent facts?"}
+{"pid": "rmVRLeJRkl4@4020j", "query": "Why keep separate vectors for center and context words?"}
+{"pid": "rmVRLeJRkl4@4080j", "query": "Why are the two learned vectors for a word nearly the same?"}
+{"pid": "rmVRLeJRkl4@4620j", "query": "Why doesn't next-word prediction capture sentiment or connotation?"}
+{"pid": "rmVRLeJRkl4@4800j", "query": "Was the word2vec architecture presented differently in the original paper?"}
+{"pid": "rmVRLeJRkl4@4860j", "query": "What is the difference between skip-gram and CBOW word2vec?"}
+{"pid": "wjZofJX0v4M@60j", "query": "How does a model generate text one token at a time in a loop?"}
+{"pid": "wjZofJX0v4M@120j", "query": "Why does a bigger model produce a more coherent story than a small one?"}
+{"pid": "wjZofJX0v4M@180j", "query": "Can images and audio also be broken into tokens?"}
+{"pid": "wjZofJX0v4M@240j", "query": "Why is one shared transformation applied to each token vector?"}
+{"pid": "wjZofJX0v4M@300j", "query": "What is the predict, sample and append loop used for?"}
+{"pid": "wjZofJX0v4M@360j", "query": "What background knowledge is needed before learning about transformers?"}
+{"pid": "wjZofJX0v4M@420j", "query": "Do I need to watch the earlier videos in this deep learning series?"}
+{"pid": "wjZofJX0v4M@480j", "query": "What is the simplest example of a machine learning model?"}
+{"pid": "wjZofJX0v4M@540j", "query": "Why do deep networks scale better than other model classes?"}
+{"pid": "wjZofJX0v4M@600j", "query": "Why is the term weight used for a model's tunable numbers?"}
+{"pid": "wjZofJX0v4M@660j", "query": "Why are the parameter counts of newer models kept secret?"}
+{"pid": "wjZofJX0v4M@720j", "query": "What is the difference between a model's weights and its input data?"}
+{"pid": "wjZofJX0v4M@780j", "query": "Why are word embeddings drawn in spaces with thousands of dimensions?"}
+{"pid": "wjZofJX0v4M@840j", "query": "What does the vector difference between man and woman represent?"}
+{"pid": "wjZofJX0v4M@900j", "query": "How do you find a direction that encodes gender in embedding space?"}
+{"pid": "wjZofJX0v4M@960j", "query": "What does a positive dot product say about two vectors?"}
+{"pid": "wjZofJX0v4M@1020j", "query": "Is the embedding matrix the first set of learned weights?"}
+{"pid": "wjZofJX0v4M@1080j", "query": "How many weights are in the GPT-3 embedding table?"}
+{"pid": "wjZofJX0v4M@1140j", "query": "How far away can context still shape a word's meaning?"}
+{"pid": "wjZofJX0v4M@1200j", "query": "Why do chatbots forget what was said in very long conversations?"}
+{"pid": "wjZofJX0v4M@1260j", "query": "Why is a next-token guess produced at each spot during training?"}
+{"pid": "wjZofJX0v4M@1320j", "query": "What must a valid probability distribution over next words satisfy?"}
+{"pid": "wjZofJX0v4M@1380j", "query": "What does the temperature parameter do to a softmax distribution?"}
+{"pid": "wjZofJX0v4M@1440j", "query": "What happens when you set the temperature to zero?"}
+{"pid": "wjZofJX0v4M@1500j", "query": "What are logits before the softmax is applied?"}
+{"pid": "zduSFxRajkE@60j", "query": "How are token IDs turned into vectors for the model?"}
+{"pid": "zduSFxRajkE@660j", "query": "Why is a leading space treated as its own token?"}
+{"pid": "zduSFxRajkE@840j", "query": "How much does tokenizer design affect a model's coding ability?"}
+{"pid": "zduSFxRajkE@1560j", "query": "Why does byte pair encoding start with 256 possible symbols?"}
+{"pid": "zduSFxRajkE@1620j", "query": "Why does a paragraph take more bytes than code points?"}
+{"pid": "zduSFxRajkE@1740j", "query": "How do you find the most frequent pair of bytes in a text?"}
+{"pid": "zduSFxRajkE@1800j", "query": "Why is the pair e followed by space so common in English?"}
+{"pid": "zduSFxRajkE@2700j", "query": "What causes an invalid start byte when decoding UTF-8?"}
+{"pid": "zduSFxRajkE@2760j", "query": "Why does byte 128 fail as the first byte of a UTF-8 sequence?"}
+{"pid": "zduSFxRajkE@2880j", "query": "What does the replacement character mean in model output?"}
+{"pid": "zduSFxRajkE@3060j", "query": "Why apply merges in the order they were learned?"}
+{"pid": "zduSFxRajkE@3720j", "query": "What does the letter class match in a regex pattern?"}
+{"pid": "zduSFxRajkE@3780j", "query": "How does the tokenizer split text into independent chunks first?"}
+{"pid": "zduSFxRajkE@4080j", "query": "Which characters does the punctuation pattern capture?"}
+{"pid": "zduSFxRajkE@4800j", "query": "Why mark where one document ends and the next begins?"}
+{"pid": "zduSFxRajkE@4860j", "query": "How do tokenizer libraries handle registered special tokens?"}
+{"pid": "zduSFxRajkE@5100j", "query": "How is the tokenizer exercise organized into stages?"}
+{"pid": "zduSFxRajkE@5400j", "query": "Why does the tokenizer switch to single bytes for uncommon symbols?"}
+{"pid": "zduSFxRajkE@5640j", "query": "Why is it so hard to define what counts as a sentence?"}
+{"pid": "zduSFxRajkE@6300j", "query": "Why do rare tokens get poorly trained in a large vocabulary?"}
+{"pid": "zduSFxRajkE@6540j", "query": "How can a few learned tokens replace a long prompt?"}
+{"pid": "zduSFxRajkE@6840j", "query": "Why does Korean text need far more tokens than English?"}
+{"pid": "zduSFxRajkE@6960j", "query": "Why are numbers split into tokens of inconsistent length?"}
+{"pid": "zduSFxRajkE@7260j", "query": "What makes some tokens unstable for a language model?"}
+{"pid": "zduSFxRajkE@7440j", "query": "What is the SolidGoldMagikarp glitch token story about?"}
+{"pid": "zjkBMFhNj_g@120j", "query": "Can I run a language model locally without an internet connection?"}
+{"pid": "zjkBMFhNj_g@360j", "query": "Is training a model basically lossy compression of text?"}
+{"pid": "zjkBMFhNj_g@480j", "query": "Why does guessing the following token teach a model so much?"}
+{"pid": "zjkBMFhNj_g@540j", "query": "What actually happens step by step when a model answers a prompt?"}
+{"pid": "zjkBMFhNj_g@600j", "query": "Why does a model make up a fake ISBN number?"}
+{"pid": "zjkBMFhNj_g@660j", "query": "Is the model simply inventing sentences based on what it read?"}
+{"pid": "zjkBMFhNj_g@720j", "query": "Why don't we understand what the parameters of a model do?"}
+{"pid": "zjkBMFhNj_g@780j", "query": "Why are language models harder to understand than ordinary machines?"}
+{"pid": "zjkBMFhNj_g@1320j", "query": "How much of fine-tuning data is still made by hand?"}
+{"pid": "zjkBMFhNj_g@1380j", "query": "Can a model check its own answers and compare candidates?"}
+{"pid": "zjkBMFhNj_g@1500j", "query": "Are open source models worse than the closed ones?"}
+{"pid": "zjkBMFhNj_g@1560j", "query": "Can scaling laws predict how well a model will perform?"}
+{"pid": "zjkBMFhNj_g@1680j", "query": "How does ChatGPT build a table from web research?"}
+{"pid": "zjkBMFhNj_g@1800j", "query": "Can ChatGPT write Python code to draw a chart for me?"}
+{"pid": "zjkBMFhNj_g@1860j", "query": "How can I forecast a value beyond the plotted data?"}
+{"pid": "zjkBMFhNj_g@2220j", "query": "Will chatbots ever take minutes to think before answering?"}
+{"pid": "zjkBMFhNj_g@2460j", "query": "Should I fine-tune a model to become an expert on one task?"}
+{"pid": "zjkBMFhNj_g@2520j", "query": "Is it better to have many specialized models or one general one?"}
+{"pid": "zjkBMFhNj_g@2580j", "query": "What kinds of senses and outputs can a modern model handle?"}
+{"pid": "zjkBMFhNj_g@2640j", "query": "Why is the operating-system analogy useful for thinking about LLMs?"}
+{"pid": "zjkBMFhNj_g@2760j", "query": "What new security problems do language models introduce?"}
+{"pid": "zjkBMFhNj_g@3000j", "query": "How can a strange suffix trick a model into ignoring its rules?"}
+{"pid": "zjkBMFhNj_g@3180j", "query": "What is a prompt injection attack on a web-connected model?"}
+{"pid": "zjkBMFhNj_g@3300j", "query": "Can spreadsheet-style scripts be abused to steal user data?"}
+{"pid": "zjkBMFhNj_g@3360j", "query": "Can poisoned training text plant a hidden trigger in a model?"}

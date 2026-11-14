@@ -1,0 +1,785 @@
+{
+ "probes": 997,
+ "jitter": true,
+ "every": 60.0,
+ "videos": 7,
+ "retriever": "bm25",
+ "queries": "verbatim (cue + two neighbours, v1 rule)",
+ "arms": {
+  "char250_prop": {
+   "right_video_pct": 99.6,
+   "within_15s_pct": 22.6,
+   "within_30s_pct": 38.8,
+   "within_60s_pct": 59.0,
+   "median_abs_error_s": 45.6,
+   "playable_30s_pct": 22.2,
+   "lands_after_pct": 33.0,
+   "passages": 3974,
+   "median_passage_s": 15.7,
+   "avg_chars": 250,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 16.8,
+    "EWvNQjAaOHw": 20.2,
+    "VMj-3S1tku0": 11.0,
+    "kCc8FmEb1nY": 44.7,
+    "l8pRSuU81PU": 70.8,
+    "zduSFxRajkE": 27.5,
+    "zjkBMFhNj_g": 98.2
+   },
+   "within_30s_ci95_video_bootstrap": [
+    20.0,
+    57.5
+   ]
+  },
+  "char250_true": {
+   "right_video_pct": 99.6,
+   "within_15s_pct": 90.1,
+   "within_30s_pct": 99.5,
+   "within_60s_pct": 99.6,
+   "median_abs_error_s": 8.5,
+   "playable_30s_pct": 99.4,
+   "lands_after_pct": 0.1,
+   "passages": 3974,
+   "median_passage_s": 15.2,
+   "avg_chars": 250,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 99.5,
+    "EWvNQjAaOHw": 99.2,
+    "VMj-3S1tku0": 100.0,
+    "kCc8FmEb1nY": 100.0,
+    "l8pRSuU81PU": 99.6,
+    "zduSFxRajkE": 99.2,
+    "zjkBMFhNj_g": 98.2
+   },
+   "within_30s_ci95_video_bootstrap": [
+    99.1,
+    99.7
+   ]
+  },
+  "char500_prop": {
+   "right_video_pct": 99.7,
+   "within_15s_pct": 19.8,
+   "within_30s_pct": 35.7,
+   "within_60s_pct": 55.5,
+   "median_abs_error_s": 47.8,
+   "playable_30s_pct": 22.4,
+   "lands_after_pct": 27.9,
+   "passages": 1989,
+   "median_passage_s": 31.4,
+   "avg_chars": 499,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 13.5,
+    "EWvNQjAaOHw": 20.2,
+    "VMj-3S1tku0": 12.7,
+    "kCc8FmEb1nY": 40.4,
+    "l8pRSuU81PU": 66.7,
+    "zduSFxRajkE": 19.8,
+    "zjkBMFhNj_g": 96.5
+   },
+   "within_30s_ci95_video_bootstrap": [
+    18.8,
+    57.6
+   ]
+  },
+  "char500_true": {
+   "right_video_pct": 99.7,
+   "within_15s_pct": 47.0,
+   "within_30s_pct": 92.0,
+   "within_60s_pct": 98.9,
+   "median_abs_error_s": 16.0,
+   "playable_30s_pct": 91.7,
+   "lands_after_pct": 0.8,
+   "passages": 1989,
+   "median_passage_s": 30.6,
+   "avg_chars": 499,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 96.2,
+    "EWvNQjAaOHw": 92.2,
+    "VMj-3S1tku0": 80.5,
+    "kCc8FmEb1nY": 89.5,
+    "l8pRSuU81PU": 91.2,
+    "zduSFxRajkE": 96.2,
+    "zjkBMFhNj_g": 98.2
+   },
+   "within_30s_ci95_video_bootstrap": [
+    88.1,
+    95.0
+   ]
+  },
+  "char1000_prop": {
+   "right_video_pct": 99.7,
+   "within_15s_pct": 13.7,
+   "within_30s_pct": 26.9,
+   "within_60s_pct": 51.9,
+   "median_abs_error_s": 56.7,
+   "playable_30s_pct": 18.6,
+   "lands_after_pct": 20.7,
+   "passages": 997,
+   "median_passage_s": 62.9,
+   "avg_chars": 996,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 6.7,
+    "EWvNQjAaOHw": 20.9,
+    "VMj-3S1tku0": 11.0,
+    "kCc8FmEb1nY": 34.2,
+    "l8pRSuU81PU": 50.8,
+    "zduSFxRajkE": 10.7,
+    "zjkBMFhNj_g": 68.4
+   },
+   "within_30s_ci95_video_bootstrap": [
+    12.4,
+    43.1
+   ]
+  },
+  "char1000_true": {
+   "right_video_pct": 99.7,
+   "within_15s_pct": 23.8,
+   "within_30s_pct": 48.5,
+   "within_60s_pct": 91.5,
+   "median_abs_error_s": 31.1,
+   "playable_30s_pct": 48.2,
+   "lands_after_pct": 0.7,
+   "passages": 997,
+   "median_passage_s": 61.5,
+   "avg_chars": 996,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 50.0,
+    "EWvNQjAaOHw": 49.6,
+    "VMj-3S1tku0": 39.8,
+    "kCc8FmEb1nY": 55.3,
+    "l8pRSuU81PU": 45.8,
+    "zduSFxRajkE": 50.4,
+    "zjkBMFhNj_g": 52.6
+   },
+   "within_30s_ci95_video_bootstrap": [
+    45.4,
+    51.8
+   ]
+  },
+  "char1500_prop": {
+   "right_video_pct": 99.9,
+   "within_15s_pct": 12.0,
+   "within_30s_pct": 22.1,
+   "within_60s_pct": 42.3,
+   "median_abs_error_s": 71.2,
+   "playable_30s_pct": 14.2,
+   "lands_after_pct": 16.6,
+   "passages": 665,
+   "median_passage_s": 94.3,
+   "avg_chars": 1493,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 6.2,
+    "EWvNQjAaOHw": 27.1,
+    "VMj-3S1tku0": 11.0,
+    "kCc8FmEb1nY": 21.1,
+    "l8pRSuU81PU": 43.3,
+    "zduSFxRajkE": 4.6,
+    "zjkBMFhNj_g": 43.9
+   },
+   "within_30s_ci95_video_bootstrap": [
+    10.3,
+    35.6
+   ]
+  },
+  "char1500_true": {
+   "right_video_pct": 99.9,
+   "within_15s_pct": 15.1,
+   "within_30s_pct": 30.3,
+   "within_60s_pct": 63.2,
+   "median_abs_error_s": 47.0,
+   "playable_30s_pct": 30.1,
+   "lands_after_pct": 0.9,
+   "passages": 665,
+   "median_passage_s": 92.5,
+   "avg_chars": 1493,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 27.9,
+    "EWvNQjAaOHw": 36.4,
+    "VMj-3S1tku0": 26.3,
+    "kCc8FmEb1nY": 28.9,
+    "l8pRSuU81PU": 34.2,
+    "zduSFxRajkE": 25.2,
+    "zjkBMFhNj_g": 31.6
+   },
+   "within_30s_ci95_video_bootstrap": [
+    26.9,
+    33.2
+   ]
+  },
+  "char3000_prop": {
+   "right_video_pct": 99.2,
+   "within_15s_pct": 5.7,
+   "within_30s_pct": 12.1,
+   "within_60s_pct": 24.5,
+   "median_abs_error_s": 116.8,
+   "playable_30s_pct": 8.4,
+   "lands_after_pct": 8.8,
+   "passages": 335,
+   "median_passage_s": 188.6,
+   "avg_chars": 2964,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 3.4,
+    "EWvNQjAaOHw": 18.6,
+    "VMj-3S1tku0": 12.7,
+    "kCc8FmEb1nY": 10.5,
+    "l8pRSuU81PU": 19.6,
+    "zduSFxRajkE": 2.3,
+    "zjkBMFhNj_g": 22.8
+   },
+   "within_30s_ci95_video_bootstrap": [
+    6.1,
+    18.3
+   ]
+  },
+  "char3000_true": {
+   "right_video_pct": 99.2,
+   "within_15s_pct": 7.7,
+   "within_30s_pct": 15.7,
+   "within_60s_pct": 31.5,
+   "median_abs_error_s": 93.7,
+   "playable_30s_pct": 15.3,
+   "lands_after_pct": 1.2,
+   "passages": 335,
+   "median_passage_s": 184.2,
+   "avg_chars": 2964,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 15.4,
+    "EWvNQjAaOHw": 20.2,
+    "VMj-3S1tku0": 16.1,
+    "kCc8FmEb1nY": 17.5,
+    "l8pRSuU81PU": 15.0,
+    "zduSFxRajkE": 11.5,
+    "zjkBMFhNj_g": 15.8
+   },
+   "within_30s_ci95_video_bootstrap": [
+    13.9,
+    17.5
+   ]
+  },
+  "cue250": {
+   "right_video_pct": 99.6,
+   "within_15s_pct": 95.3,
+   "within_30s_pct": 98.9,
+   "within_60s_pct": 98.9,
+   "median_abs_error_s": 6.4,
+   "playable_30s_pct": 97.5,
+   "lands_after_pct": 1.6,
+   "passages": 4289,
+   "median_passage_s": 14.0,
+   "avg_chars": 230,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 99.0,
+    "EWvNQjAaOHw": 99.2,
+    "VMj-3S1tku0": 98.3,
+    "kCc8FmEb1nY": 100.0,
+    "l8pRSuU81PU": 98.3,
+    "zduSFxRajkE": 99.2,
+    "zjkBMFhNj_g": 98.2
+   },
+   "within_30s_ci95_video_bootstrap": [
+    98.5,
+    99.3
+   ]
+  },
+  "cue500": {
+   "right_video_pct": 100.0,
+   "within_15s_pct": 55.3,
+   "within_30s_pct": 96.3,
+   "within_60s_pct": 99.6,
+   "median_abs_error_s": 13.6,
+   "playable_30s_pct": 95.2,
+   "lands_after_pct": 1.4,
+   "passages": 2061,
+   "median_passage_s": 29.6,
+   "avg_chars": 480,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 98.6,
+    "EWvNQjAaOHw": 96.9,
+    "VMj-3S1tku0": 89.0,
+    "kCc8FmEb1nY": 94.7,
+    "l8pRSuU81PU": 97.5,
+    "zduSFxRajkE": 96.2,
+    "zjkBMFhNj_g": 100.0
+   },
+   "within_30s_ci95_video_bootstrap": [
+    93.8,
+    97.9
+   ]
+  },
+  "cue1000": {
+   "right_video_pct": 99.4,
+   "within_15s_pct": 24.8,
+   "within_30s_pct": 49.6,
+   "within_60s_pct": 92.7,
+   "median_abs_error_s": 30.1,
+   "playable_30s_pct": 48.9,
+   "lands_after_pct": 1.0,
+   "passages": 1013,
+   "median_passage_s": 60.7,
+   "avg_chars": 978,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 51.9,
+    "EWvNQjAaOHw": 45.7,
+    "VMj-3S1tku0": 44.9,
+    "kCc8FmEb1nY": 51.8,
+    "l8pRSuU81PU": 47.9,
+    "zduSFxRajkE": 55.0,
+    "zjkBMFhNj_g": 50.9
+   },
+   "within_30s_ci95_video_bootstrap": [
+    47.5,
+    52.0
+   ]
+  },
+  "cue1500": {
+   "right_video_pct": 99.8,
+   "within_15s_pct": 15.6,
+   "within_30s_pct": 32.6,
+   "within_60s_pct": 62.8,
+   "median_abs_error_s": 46.6,
+   "playable_30s_pct": 32.3,
+   "lands_after_pct": 0.9,
+   "passages": 673,
+   "median_passage_s": 91.4,
+   "avg_chars": 1472,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 31.2,
+    "EWvNQjAaOHw": 35.7,
+    "VMj-3S1tku0": 26.3,
+    "kCc8FmEb1nY": 33.3,
+    "l8pRSuU81PU": 32.1,
+    "zduSFxRajkE": 36.6,
+    "zjkBMFhNj_g": 35.1
+   },
+   "within_30s_ci95_video_bootstrap": [
+    30.3,
+    35.0
+   ]
+  },
+  "cue3000": {
+   "right_video_pct": 99.3,
+   "within_15s_pct": 7.5,
+   "within_30s_pct": 15.5,
+   "within_60s_pct": 30.3,
+   "median_abs_error_s": 95.5,
+   "playable_30s_pct": 14.9,
+   "lands_after_pct": 1.1,
+   "passages": 336,
+   "median_passage_s": 183.4,
+   "avg_chars": 2950,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 18.8,
+    "EWvNQjAaOHw": 14.7,
+    "VMj-3S1tku0": 13.6,
+    "kCc8FmEb1nY": 13.2,
+    "l8pRSuU81PU": 17.5,
+    "zduSFxRajkE": 12.2,
+    "zjkBMFhNj_g": 14.0
+   },
+   "within_30s_ci95_video_bootstrap": [
+    13.4,
+    17.2
+   ]
+  },
+  "win15": {
+   "right_video_pct": 100.0,
+   "within_15s_pct": 98.5,
+   "within_30s_pct": 99.6,
+   "within_60s_pct": 99.7,
+   "median_abs_error_s": 6.2,
+   "playable_30s_pct": 98.4,
+   "lands_after_pct": 1.4,
+   "passages": 4162,
+   "median_passage_s": 15.0,
+   "avg_chars": 237,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 100.0,
+    "EWvNQjAaOHw": 100.0,
+    "VMj-3S1tku0": 98.3,
+    "kCc8FmEb1nY": 100.0,
+    "l8pRSuU81PU": 99.6,
+    "zduSFxRajkE": 99.2,
+    "zjkBMFhNj_g": 100.0
+   },
+   "within_30s_ci95_video_bootstrap": [
+    99.2,
+    99.9
+   ]
+  },
+  "win30": {
+   "right_video_pct": 99.9,
+   "within_15s_pct": 53.4,
+   "within_30s_pct": 98.7,
+   "within_60s_pct": 99.7,
+   "median_abs_error_s": 14.1,
+   "playable_30s_pct": 97.8,
+   "lands_after_pct": 1.2,
+   "passages": 2082,
+   "median_passage_s": 30.0,
+   "avg_chars": 475,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 100.0,
+    "EWvNQjAaOHw": 98.4,
+    "VMj-3S1tku0": 95.8,
+    "kCc8FmEb1nY": 99.1,
+    "l8pRSuU81PU": 98.8,
+    "zduSFxRajkE": 98.5,
+    "zjkBMFhNj_g": 100.0
+   },
+   "within_30s_ci95_video_bootstrap": [
+    97.8,
+    99.4
+   ]
+  },
+  "win60": {
+   "right_video_pct": 99.5,
+   "within_15s_pct": 26.0,
+   "within_30s_pct": 50.6,
+   "within_60s_pct": 98.6,
+   "median_abs_error_s": 29.9,
+   "playable_30s_pct": 49.5,
+   "lands_after_pct": 1.2,
+   "passages": 1043,
+   "median_passage_s": 60.0,
+   "avg_chars": 950,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 51.9,
+    "EWvNQjAaOHw": 48.1,
+    "VMj-3S1tku0": 50.8,
+    "kCc8FmEb1nY": 52.6,
+    "l8pRSuU81PU": 48.3,
+    "zduSFxRajkE": 47.3,
+    "zjkBMFhNj_g": 63.2
+   },
+   "within_30s_ci95_video_bootstrap": [
+    48.7,
+    53.3
+   ]
+  },
+  "win120": {
+   "right_video_pct": 99.5,
+   "within_15s_pct": 12.8,
+   "within_30s_pct": 25.1,
+   "within_60s_pct": 49.9,
+   "median_abs_error_s": 59.5,
+   "playable_30s_pct": 24.6,
+   "lands_after_pct": 1.1,
+   "passages": 522,
+   "median_passage_s": 120.0,
+   "avg_chars": 1899,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 27.4,
+    "EWvNQjAaOHw": 20.2,
+    "VMj-3S1tku0": 26.3,
+    "kCc8FmEb1nY": 24.6,
+    "l8pRSuU81PU": 24.2,
+    "zduSFxRajkE": 26.7,
+    "zjkBMFhNj_g": 26.3
+   },
+   "within_30s_ci95_video_bootstrap": [
+    23.2,
+    26.6
+   ]
+  },
+  "win300": {
+   "right_video_pct": 98.6,
+   "within_15s_pct": 5.1,
+   "within_30s_pct": 9.6,
+   "within_60s_pct": 20.1,
+   "median_abs_error_s": 147.6,
+   "playable_30s_pct": 8.8,
+   "lands_after_pct": 1.4,
+   "passages": 212,
+   "median_passage_s": 299.9,
+   "avg_chars": 4676,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 8.7,
+    "EWvNQjAaOHw": 8.5,
+    "VMj-3S1tku0": 11.9,
+    "kCc8FmEb1nY": 9.6,
+    "l8pRSuU81PU": 11.2,
+    "zduSFxRajkE": 6.9,
+    "zjkBMFhNj_g": 10.5
+   },
+   "within_30s_ci95_video_bootstrap": [
+    8.3,
+    10.8
+   ]
+  },
+  "para": {
+   "right_video_pct": 99.9,
+   "within_15s_pct": 38.3,
+   "within_30s_pct": 71.6,
+   "within_60s_pct": 99.5,
+   "median_abs_error_s": 20.2,
+   "playable_30s_pct": 70.6,
+   "lands_after_pct": 1.2,
+   "passages": 1475,
+   "median_passage_s": 42.0,
+   "avg_chars": 671,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 76.4,
+    "EWvNQjAaOHw": 75.2,
+    "VMj-3S1tku0": 61.0,
+    "kCc8FmEb1nY": 70.2,
+    "l8pRSuU81PU": 70.4,
+    "zduSFxRajkE": 67.9,
+    "zjkBMFhNj_g": 84.2
+   },
+   "within_30s_ci95_video_bootstrap": [
+    67.5,
+    75.6
+   ]
+  },
+  "chunk1500": {
+   "right_video_pct": 99.8,
+   "within_15s_pct": 18.7,
+   "within_30s_pct": 35.3,
+   "within_60s_pct": 71.6,
+   "median_abs_error_s": 41.9,
+   "playable_30s_pct": 34.7,
+   "lands_after_pct": 1.1,
+   "passages": 733,
+   "median_passage_s": 84.2,
+   "avg_chars": 1353,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 35.1,
+    "EWvNQjAaOHw": 36.4,
+    "VMj-3S1tku0": 27.1,
+    "kCc8FmEb1nY": 40.4,
+    "l8pRSuU81PU": 36.7,
+    "zduSFxRajkE": 35.9,
+    "zjkBMFhNj_g": 33.3
+   },
+   "within_30s_ci95_video_bootstrap": [
+    32.5,
+    37.6
+   ]
+  },
+  "cue1": {
+   "right_video_pct": 99.7,
+   "within_15s_pct": 97.7,
+   "within_30s_pct": 97.9,
+   "within_60s_pct": 98.0,
+   "median_abs_error_s": 1.9,
+   "playable_30s_pct": 65.2,
+   "lands_after_pct": 33.3,
+   "passages": 27549,
+   "median_passage_s": 2.2,
+   "avg_chars": 35,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 99.5,
+    "EWvNQjAaOHw": 98.4,
+    "VMj-3S1tku0": 91.5,
+    "kCc8FmEb1nY": 97.4,
+    "l8pRSuU81PU": 98.8,
+    "zduSFxRajkE": 98.5,
+    "zjkBMFhNj_g": 100.0
+   },
+   "within_30s_ci95_video_bootstrap": [
+    95.8,
+    99.0
+   ]
+  },
+  "s2b_chunk1500_to_cue1": {
+   "right_video_pct": 99.8,
+   "within_15s_pct": 98.6,
+   "within_30s_pct": 98.7,
+   "within_60s_pct": 98.8,
+   "median_abs_error_s": 1.9,
+   "playable_30s_pct": 65.3,
+   "lands_after_pct": 33.9,
+   "passages": "733 -> 27549",
+   "median_passage_s": 2.2,
+   "avg_chars": 35,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 98.6,
+    "EWvNQjAaOHw": 99.2,
+    "VMj-3S1tku0": 95.8,
+    "kCc8FmEb1nY": 99.1,
+    "l8pRSuU81PU": 99.2,
+    "zduSFxRajkE": 99.2,
+    "zjkBMFhNj_g": 100.0
+   },
+   "within_30s_ci95_video_bootstrap": [
+    97.8,
+    99.3
+   ]
+  },
+  "s2b_chunk1500_to_para": {
+   "right_video_pct": 99.8,
+   "within_15s_pct": 37.9,
+   "within_30s_pct": 70.9,
+   "within_60s_pct": 98.8,
+   "median_abs_error_s": 20.3,
+   "playable_30s_pct": 69.8,
+   "lands_after_pct": 1.7,
+   "passages": "733 -> 1475",
+   "median_passage_s": 42.0,
+   "avg_chars": 671,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 75.5,
+    "EWvNQjAaOHw": 74.4,
+    "VMj-3S1tku0": 59.3,
+    "kCc8FmEb1nY": 70.2,
+    "l8pRSuU81PU": 69.6,
+    "zduSFxRajkE": 67.9,
+    "zjkBMFhNj_g": 84.2
+   },
+   "within_30s_ci95_video_bootstrap": [
+    66.9,
+    74.8
+   ]
+  },
+  "s2b_win120_to_cue1": {
+   "right_video_pct": 99.5,
+   "within_15s_pct": 97.9,
+   "within_30s_pct": 98.2,
+   "within_60s_pct": 98.3,
+   "median_abs_error_s": 1.9,
+   "playable_30s_pct": 65.4,
+   "lands_after_pct": 33.5,
+   "passages": "522 -> 27549",
+   "median_passage_s": 2.2,
+   "avg_chars": 35,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 99.0,
+    "EWvNQjAaOHw": 97.7,
+    "VMj-3S1tku0": 94.9,
+    "kCc8FmEb1nY": 96.5,
+    "l8pRSuU81PU": 99.6,
+    "zduSFxRajkE": 99.2,
+    "zjkBMFhNj_g": 98.2
+   },
+   "within_30s_ci95_video_bootstrap": [
+    96.8,
+    99.1
+   ]
+  },
+  "s2b_win120_to_para": {
+   "right_video_pct": 99.5,
+   "within_15s_pct": 37.9,
+   "within_30s_pct": 70.4,
+   "within_60s_pct": 98.3,
+   "median_abs_error_s": 20.3,
+   "playable_30s_pct": 69.2,
+   "lands_after_pct": 1.9,
+   "passages": "522 -> 1475",
+   "median_passage_s": 42.0,
+   "avg_chars": 671,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 76.0,
+    "EWvNQjAaOHw": 73.6,
+    "VMj-3S1tku0": 57.6,
+    "kCc8FmEb1nY": 67.5,
+    "l8pRSuU81PU": 70.0,
+    "zduSFxRajkE": 67.9,
+    "zjkBMFhNj_g": 82.5
+   },
+   "within_30s_ci95_video_bootstrap": [
+    66.1,
+    75.0
+   ]
+  },
+  "s2b_cue1500_to_cue1": {
+   "right_video_pct": 99.8,
+   "within_15s_pct": 98.1,
+   "within_30s_pct": 98.3,
+   "within_60s_pct": 98.5,
+   "median_abs_error_s": 1.9,
+   "playable_30s_pct": 65.5,
+   "lands_after_pct": 33.5,
+   "passages": "673 -> 27549",
+   "median_passage_s": 2.2,
+   "avg_chars": 35,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 99.5,
+    "EWvNQjAaOHw": 99.2,
+    "VMj-3S1tku0": 93.2,
+    "kCc8FmEb1nY": 99.1,
+    "l8pRSuU81PU": 98.8,
+    "zduSFxRajkE": 98.5,
+    "zjkBMFhNj_g": 98.2
+   },
+   "within_30s_ci95_video_bootstrap": [
+    96.4,
+    99.2
+   ]
+  },
+  "s2b_cue1500_to_para": {
+   "right_video_pct": 99.8,
+   "within_15s_pct": 38.0,
+   "within_30s_pct": 70.5,
+   "within_60s_pct": 98.4,
+   "median_abs_error_s": 20.2,
+   "playable_30s_pct": 69.3,
+   "lands_after_pct": 1.9,
+   "passages": "673 -> 1475",
+   "median_passage_s": 42.0,
+   "avg_chars": 671,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 76.4,
+    "EWvNQjAaOHw": 75.2,
+    "VMj-3S1tku0": 55.9,
+    "kCc8FmEb1nY": 70.2,
+    "l8pRSuU81PU": 69.2,
+    "zduSFxRajkE": 67.2,
+    "zjkBMFhNj_g": 82.5
+   },
+   "within_30s_ci95_video_bootstrap": [
+    65.8,
+    75.0
+   ]
+  },
+  "s2b_win60_to_cue1": {
+   "right_video_pct": 99.5,
+   "within_15s_pct": 98.4,
+   "within_30s_pct": 98.6,
+   "within_60s_pct": 98.9,
+   "median_abs_error_s": 1.9,
+   "playable_30s_pct": 65.1,
+   "lands_after_pct": 33.9,
+   "passages": "1043 -> 27549",
+   "median_passage_s": 2.2,
+   "avg_chars": 35,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 99.5,
+    "EWvNQjAaOHw": 99.2,
+    "VMj-3S1tku0": 94.9,
+    "kCc8FmEb1nY": 100.0,
+    "l8pRSuU81PU": 98.8,
+    "zduSFxRajkE": 99.2,
+    "zjkBMFhNj_g": 96.5
+   },
+   "within_30s_ci95_video_bootstrap": [
+    97.2,
+    99.4
+   ]
+  },
+  "s2b_win60_to_para": {
+   "right_video_pct": 99.5,
+   "within_15s_pct": 38.2,
+   "within_30s_pct": 70.9,
+   "within_60s_pct": 98.8,
+   "median_abs_error_s": 20.2,
+   "playable_30s_pct": 69.7,
+   "lands_after_pct": 1.5,
+   "passages": "1043 -> 1475",
+   "median_passage_s": 42.0,
+   "avg_chars": 671,
+   "within_30s_by_video": {
+    "7xTGNNLPyMI": 76.9,
+    "EWvNQjAaOHw": 74.4,
+    "VMj-3S1tku0": 58.5,
+    "kCc8FmEb1nY": 71.1,
+    "l8pRSuU81PU": 69.2,
+    "zduSFxRajkE": 67.9,
+    "zjkBMFhNj_g": 80.7
+   },
+   "within_30s_ci95_video_bootstrap": [
+    66.3,
+    74.9
+   ]
+  }
+ }
+}

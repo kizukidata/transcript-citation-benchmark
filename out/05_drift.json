@@ -1,0 +1,215 @@
+{
+ "videos": [
+  {
+   "vid": "LPZh9BOjkQs",
+   "caption": "manual",
+   "title": "Large Language Models explained briefly",
+   "duration_min": 8.0,
+   "median_abs_drift_s": 14.0,
+   "p90_abs_drift_s": 19.1,
+   "max_abs_drift_s": 21.1,
+   "share_cues_drift_over_30s_pct": 0.0,
+   "early_share_pct": 0.9,
+   "chars_per_s_p10_p90": [
+    15.2,
+    18.2
+   ]
+  },
+  {
+   "vid": "aircAruvnKk",
+   "caption": "manual",
+   "title": "But what is a neural network? | Deep learning chap",
+   "duration_min": 18.7,
+   "median_abs_drift_s": 2.8,
+   "p90_abs_drift_s": 7.5,
+   "max_abs_drift_s": 17.5,
+   "share_cues_drift_over_30s_pct": 0.0,
+   "early_share_pct": 35.7,
+   "chars_per_s_p10_p90": [
+    14.9,
+    17.8
+   ]
+  },
+  {
+   "vid": "eMlx5fFNoYc",
+   "caption": "manual",
+   "title": "Attention in transformers, step-by-step | Deep Lea",
+   "duration_min": 26.1,
+   "median_abs_drift_s": 7.4,
+   "p90_abs_drift_s": 13.3,
+   "max_abs_drift_s": 19.1,
+   "share_cues_drift_over_30s_pct": 0.0,
+   "early_share_pct": 3.8,
+   "chars_per_s_p10_p90": [
+    15.9,
+    19.1
+   ]
+  },
+  {
+   "vid": "wjZofJX0v4M",
+   "caption": "manual",
+   "title": "Transformers, the tech behind LLMs | Deep Learning",
+   "duration_min": 27.2,
+   "median_abs_drift_s": 18.3,
+   "p90_abs_drift_s": 21.9,
+   "max_abs_drift_s": 24.3,
+   "share_cues_drift_over_30s_pct": 0.0,
+   "early_share_pct": 0.9,
+   "chars_per_s_p10_p90": [
+    16.2,
+    19.4
+   ]
+  },
+  {
+   "vid": "bZQun8Y4L2A",
+   "caption": "manual",
+   "title": "State of GPT | BRK216HFS",
+   "duration_min": 42.7,
+   "median_abs_drift_s": 24.5,
+   "p90_abs_drift_s": 54.3,
+   "max_abs_drift_s": 68.2,
+   "share_cues_drift_over_30s_pct": 30.0,
+   "early_share_pct": 21.1,
+   "chars_per_s_p10_p90": [
+    16.1,
+    18.7
+   ]
+  },
+  {
+   "vid": "zjkBMFhNj_g",
+   "caption": "auto",
+   "title": "[1hr Talk] Intro to Large Language Models",
+   "duration_min": 59.8,
+   "median_abs_drift_s": 7.5,
+   "p90_abs_drift_s": 20.9,
+   "max_abs_drift_s": 30.3,
+   "share_cues_drift_over_30s_pct": 0.1,
+   "early_share_pct": 21.3,
+   "chars_per_s_p10_p90": [
+    16.6,
+    19.3
+   ]
+  },
+  {
+   "vid": "jGwO_UgTS7I",
+   "caption": "manual",
+   "title": "Stanford CS229: Machine Learning Lecture 1 - Andre",
+   "duration_min": 75.3,
+   "median_abs_drift_s": 36.6,
+   "p90_abs_drift_s": 63.3,
+   "max_abs_drift_s": 80.4,
+   "share_cues_drift_over_30s_pct": 63.0,
+   "early_share_pct": 38.8,
+   "chars_per_s_p10_p90": [
+    11.7,
+    18.1
+   ]
+  },
+  {
+   "vid": "rmVRLeJRkl4",
+   "caption": "manual",
+   "title": "Stanford CS224N: NLP with Deep Learning | Winter 2",
+   "duration_min": 84.5,
+   "median_abs_drift_s": 61.8,
+   "p90_abs_drift_s": 198.1,
+   "max_abs_drift_s": 225.7,
+   "share_cues_drift_over_30s_pct": 59.0,
+   "early_share_pct": 22.6,
+   "chars_per_s_p10_p90": [
+    9.0,
+    14.0
+   ]
+  },
+  {
+   "vid": "kCc8FmEb1nY",
+   "caption": "auto",
+   "title": "Let's build GPT: from scratch, in code, spelled ou",
+   "duration_min": 116.3,
+   "median_abs_drift_s": 33.7,
+   "p90_abs_drift_s": 91.1,
+   "max_abs_drift_s": 130.0,
+   "share_cues_drift_over_30s_pct": 55.6,
+   "early_share_pct": 61.6,
+   "chars_per_s_p10_p90": [
+    13.4,
+    17.6
+   ]
+  },
+  {
+   "vid": "EWvNQjAaOHw",
+   "caption": "auto",
+   "title": "How I use LLMs",
+   "duration_min": 131.2,
+   "median_abs_drift_s": 57.8,
+   "p90_abs_drift_s": 101.2,
+   "max_abs_drift_s": 116.7,
+   "share_cues_drift_over_30s_pct": 78.6,
+   "early_share_pct": 34.4,
+   "chars_per_s_p10_p90": [
+    14.1,
+    18.3
+   ]
+  },
+  {
+   "vid": "zduSFxRajkE",
+   "caption": "auto",
+   "title": "Let's build the GPT Tokenizer",
+   "duration_min": 133.6,
+   "median_abs_drift_s": 65.7,
+   "p90_abs_drift_s": 121.2,
+   "max_abs_drift_s": 143.5,
+   "share_cues_drift_over_30s_pct": 68.2,
+   "early_share_pct": 93.0,
+   "chars_per_s_p10_p90": [
+    13.8,
+    17.9
+   ]
+  },
+  {
+   "vid": "VMj-3S1tku0",
+   "caption": "auto",
+   "title": "The spelled-out intro to neural networks and backp",
+   "duration_min": 145.9,
+   "median_abs_drift_s": 97.6,
+   "p90_abs_drift_s": 152.9,
+   "max_abs_drift_s": 191.9,
+   "share_cues_drift_over_30s_pct": 90.7,
+   "early_share_pct": 54.6,
+   "chars_per_s_p10_p90": [
+    10.6,
+    17.0
+   ]
+  },
+  {
+   "vid": "7xTGNNLPyMI",
+   "caption": "auto",
+   "title": "Deep Dive into LLMs like ChatGPT",
+   "duration_min": 211.4,
+   "median_abs_drift_s": 89.3,
+   "p90_abs_drift_s": 153.8,
+   "max_abs_drift_s": 169.2,
+   "share_cues_drift_over_30s_pct": 77.3,
+   "early_share_pct": 90.1,
+   "chars_per_s_p10_p90": [
+    15.2,
+    18.6
+   ]
+  },
+  {
+   "vid": "l8pRSuU81PU",
+   "caption": "auto",
+   "title": "Let's reproduce GPT-2 (124M)",
+   "duration_min": 241.4,
+   "median_abs_drift_s": 17.8,
+   "p90_abs_drift_s": 57.7,
+   "max_abs_drift_s": 72.8,
+   "share_cues_drift_over_30s_pct": 33.4,
+   "early_share_pct": 31.8,
+   "chars_per_s_p10_p90": [
+    13.4,
+    17.4
+   ]
+  }
+ ],
+ "spearman_duration_vs_median_drift": 0.719
+}
